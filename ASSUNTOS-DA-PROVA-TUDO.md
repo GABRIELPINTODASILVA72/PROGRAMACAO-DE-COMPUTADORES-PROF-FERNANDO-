@@ -12,6 +12,14 @@
 
 # pastas 
 
+# class random
+
+# class timeline
+
+# class
+
+# mascara  
+
 # arquivos 
 
 # #TIPOS DE ERRO
